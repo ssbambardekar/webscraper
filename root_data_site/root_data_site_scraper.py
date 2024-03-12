@@ -15,6 +15,7 @@ try:
     process.start()
 
     # Print the scraped properties
+    # The actual values can be parsed
     # These can be stored in a file or a database for further querying
     print("Scraping complete.")
     print("Project Names scraped: \n----------------------\n", '\n '.join(str(href) for href in RootDataList.projectNames))
