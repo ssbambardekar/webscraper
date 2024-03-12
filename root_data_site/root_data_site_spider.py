@@ -1,36 +1,30 @@
 import scrapy
-import root_data_item
+import root_data
 
+# Global
+RootDataList = root_data.RootData()
+
+# Spider class for Scrapy
 class RootDataSpider(scrapy.Spider):
+    # Prpoerties
     name = 'root_data_spider'
     start_urls = ['https://www.rootdata.com/Projects']
 
+    # Default parse method for Scrapy
     def parse(self, response):
         try:            
+            # Get all the project names            
             for href in response.css('div > a.list_name.animation_underline').extract():            
-                data = response.css('list_name animation_underline::text').get()
-                print("href:", href )    
-                print("data:", data )    
-                #yield response.follow(href, self.parse_root_data_item_detail)
+                RootDataList.projectNames.append(href)
+
+            # Get all the tags
+            for href in response.css('div.tag_list.keep_all').extract():            
+                RootDataList.tags.append(href)
+
+            # Get all the descriptions
+            for href in response.css('span.intro.keep_all').extract():            
+                RootDataList.descriptions.append(href)
+                                
         except Exception as e:
             print("Exception: ", e )
 
-    def parse_root_data_item_detail(self, response):
-        try:
-            data = response.css('css-selector-for-title::text').get()
-            
-            #item['title'] = response.css('css-selector-for-title::text').get()
-            #item['company'] = response.css('css-selector-for-company::text').get()
-            
-            #item['description'] = response.css('css-selector-for-description::text').getall()  # Use getall() if the description is split across multiple tags
-            #item['link'] = response.url  # The link to the detail page (already available)
-
-            # Use the summarizer to summarize the description
-            #summarizer = Summarizer()
-            #item['description'] = summarizer.summarize(' '.join(item['description']))
-
-            yield data
-        except Exception as e:
-            print("Exception: ", e )
-
-            
