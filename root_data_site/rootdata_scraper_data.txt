@@ -1,0 +1,192 @@
+Project Names scraped:
+----------------------
+ <a href="/Projects/detail/Cordial%20Systems?k=MTE4Njk%3D" target="_blank" class="list_name animation_underline" data-v-09feb336>
+          Cordial Systems<!----></a>
+ <a href="/Projects/detail/Pallet%20Exchange?k=MTE4NjU%3D" target="_blank" class="list_name animation_underline" data-v-09feb336>
+          Pallet Exchange<!----></a>
+ <a href="/Projects/detail/BitRealms?k=MTE4NjI%3D" target="_blank" class="list_name animation_underline" data-v-09feb336>
+          BitRealms<!----></a>
+ <a href="/Projects/detail/Neurochain.AI?k=MTE4NjE%3D" target="_blank" class="list_name animation_underline" data-v-09feb336>
+          Neurochain.AI<!----></a>
+ <a href="/Projects/detail/Metagent?k=MTE4NTk%3D" target="_blank" class="list_name animation_underline" data-v-09feb336>
+          Metagent<!----></a>
+ <a href="/Projects/detail/Influpia?k=MTE4NTU%3D" target="_blank" class="list_name animation_underline" data-v-09feb336>
+          Influpia<!----></a>
+ <a href="/Projects/detail/Muito%20Finance?k=MTE4NTI%3D" target="_blank" class="list_name animation_underline" data-v-09feb336>
+          Muito Finance<!----></a>
+ <a href="/Projects/detail/zkHive?k=MTE4NTE%3D" target="_blank" class="list_name animation_underline" data-v-09feb336>
+          zkHive<!----></a>
+ <a href="/Projects/detail/Ponder.One?k=MTE4NDg%3D" target="_blank" class="list_name animation_underline" data-v-09feb336>
+          Ponder.One<!----></a>
+ <a href="/Projects/detail/Taproot%20Chain?k=MTE4NDY%3D" target="_blank" class="list_name animation_underline" data-v-09feb336>
+          Taproot Chain<!----></a>
+ <a href="/Projects/detail/Payy?k=MTE4NDU%3D" target="_blank" class="list_name animation_underline" data-v-09feb336>
+          Payy<!----></a>
+ <a href="/Projects/detail/Alien%20Finance?k=MTE4NDE%3D" target="_blank" class="list_name animation_underline" data-v-09feb336>
+          Alien Finance<!----></a>
+ <a href="/Projects/detail/Wand%20Protocol?k=MTE4Mzc%3D" target="_blank" class="list_name animation_underline" data-v-09feb336>
+          Wand Protocol<!----></a>
+ <a href="/Projects/detail/Strater?k=MTE4MzQ%3D" target="_blank" class="list_name animation_underline" data-v-09feb336>
+          Strater<!----></a>
+ <a href="/Projects/detail/Lava?k=MTE4MzM%3D" target="_blank" class="list_name animation_underline" data-v-09feb336>
+          Lava<!----></a>
+ <a href="/Projects/detail/Kuzco?k=MTE4MzA%3D" target="_blank" class="list_name animation_underline" data-v-09feb336>
+          Kuzco<!----></a>
+ <a href="/Projects/detail/ALIENX?k=MTE4Mjk%3D" target="_blank" class="list_name animation_underline" data-v-09feb336>
+          ALIENX<!----></a>
+ <a href="/Projects/detail/Circuit%20Trading?k=MTE4Mjg%3D" target="_blank" class="list_name animation_underline" data-v-09feb336>
+          Circuit Trading<!----></a>
+ <a href="/Projects/detail/Asterix?k=MTE4MjU%3D" target="_blank" class="list_name animation_underline" data-v-09feb336>
+          Asterix<!----></a>
+ <a href="/Projects/detail/Hypertensor?k=MTE4MjQ%3D" target="_blank" class="list_name animation_underline" data-v-09feb336>
+          Hypertensor<!----></a>
+ <a href="/Projects/detail/RapChain?k=MTE4MjE%3D" target="_blank" class="list_name animation_underline" data-v-09feb336>
+          RapChain<!----></a>
+ <a href="/Projects/detail/AI%20WAIFU?k=MTE4MTI%3D" target="_blank" class="list_name animation_underline" data-v-09feb336>
+          AI WAIFU<!----></a>
+ <a href="/Projects/detail/Hyperdrive?k=MTE4MTE%3D" target="_blank" class="list_name animation_underline" data-v-09feb336>
+          Hyperdrive<!----></a>
+ <a href="/Projects/detail/BitEvo?k=MTE4MTA%3D" target="_blank" class="list_name animation_underline" data-v-09feb336>
+          BitEvo<!----></a>
+ <a href="/Projects/detail/Liteseed?k=MTE4MDg%3D" target="_blank" class="list_name animation_underline" data-v-09feb336>
+          Liteseed<!----></a>
+ <a href="/Projects/detail/Hive%20Network?k=MTE4MDc%3D" target="_blank" class="list_name animation_underline" data-v-09feb336>
+          Hive Network<!----></a>
+ <a href="/Projects/detail/MethLab?k=MTE4MDM%3D" target="_blank" class="list_name animation_underline" data-v-09feb336>
+          MethLab<!----></a>
+ <a href="/Projects/detail/MONAI?k=MTE4MDE%3D" target="_blank" class="list_name animation_underline" data-v-09feb336>
+          MONAI<!----></a>
+ <a href="/Projects/detail/ZenGuard?k=MTE3OTg%3D" target="_blank" class="list_name animation_underline" data-v-09feb336>
+          ZenGuard<!----></a>
+ <a href="/Projects/detail/Multisight?k=MTE3OTc%3D" target="_blank" class="list_name animation_underline" data-v-09feb336>
+          Multisight<!----></a>
+
+
+
+Project Tags scraped:
+---------------------
+ <div class="tag_list keep_all" data-v-09feb336>
+        Infra、Wallet、MPC Wallet
+      </div>
+ <div class="tag_list keep_all" data-v-09feb336>
+        NFT、NFT marketplace
+      </div>
+ <div class="tag_list keep_all" data-v-09feb336>
+        Ordinals、Games、Social
+      </div>
+ <div class="tag_list keep_all" data-v-09feb336>
+        Infra、Dev Platform、AI
+      </div>
+ <div class="tag_list keep_all" data-v-09feb336>
+        Creator Economy、AI
+      </div>
+ <div class="tag_list keep_all" data-v-09feb336>
+        Social、Socia Token
+      </div>
+ <div class="tag_list keep_all" data-v-09feb336>
+        DeFi、Yield aggregator
+      </div>
+ <div class="tag_list keep_all" data-v-09feb336>
+        Security Solutions
+      </div>
+ <div class="tag_list keep_all" data-v-09feb336>
+        Intent、DeFi
+      </div>
+ <div class="tag_list keep_all" data-v-09feb336>
+        Infra、Layer2
+      </div>
+ <div class="tag_list keep_all" data-v-09feb336>
+        Infra、Wallet、Payments
+      </div>
+ <div class="tag_list keep_all" data-v-09feb336>
+        DeFi、Lending
+      </div>
+ <div class="tag_list keep_all" data-v-09feb336>
+        DeFi、Stablecoin Protocol
+      </div>
+ <div class="tag_list keep_all" data-v-09feb336>
+        DeFi
+      </div>
+ <div class="tag_list keep_all" data-v-09feb336>
+        Yield optimizer、DeFi
+      </div>
+ <div class="tag_list keep_all" data-v-09feb336>
+        Infra、Cloud Computing、AI
+      </div>
+ <div class="tag_list keep_all" data-v-09feb336>
+        Layer3、Infra、LSD
+      </div>
+ <div class="tag_list keep_all" data-v-09feb336>
+        DeFi、Asset Management
+      </div>
+ <div class="tag_list keep_all" data-v-09feb336>
+        NFT
+      </div>
+ <div class="tag_list keep_all" data-v-09feb336>
+        Infra、Cloud Computing、AI
+      </div>
+ <div class="tag_list keep_all" data-v-09feb336>
+        Games
+      </div>
+ <div class="tag_list keep_all" data-v-09feb336>
+        Games、AI
+      </div>
+ <div class="tag_list keep_all" data-v-09feb336>
+        DeFi、Lending、Fixed Interest Rate Lending
+      </div>
+ <div class="tag_list keep_all" data-v-09feb336>
+        Infra、Layer2
+      </div>
+ <div class="tag_list keep_all" data-v-09feb336>
+        Infra、Storage Network
+      </div>
+ <div class="tag_list keep_all" data-v-09feb336>
+        Infra、AI
+      </div>
+ <div class="tag_list keep_all" data-v-09feb336>
+        DeFi、Lending、Fixed Interest Rate Lending
+      </div>
+ <div class="tag_list keep_all" data-v-09feb336>
+        AI
+      </div>
+ <div class="tag_list keep_all" data-v-09feb336>
+        Tools、App Store
+      </div>
+ <div class="tag_list keep_all" data-v-09feb336>
+        Tools、Data &amp; Analysis
+      </div>
+
+
+
+Project Descriptions scraped:
+-----------------------------
+ <span class="intro keep_all" data-v-09feb336>Institutional-grade self custody software provider</span>
+ <span class="intro keep_all" data-v-09feb336>The Premier Sei Native Marketplace</span>
+ <span class="intro keep_all" data-v-09feb336>Metaverse and Social Gaming Platform</span>
+ <span class="intro keep_all" data-v-09feb336>Decentralized AI-as-a-service network</span>
+ <span class="intro keep_all" data-v-09feb336>Decentralized AI collaboration platform</span>
+ <span class="intro keep_all" data-v-09feb336>Web3 multi-chain social platform</span>
+ <span class="intro keep_all" data-v-09feb336>Yield Aggregator on Mantle</span>
+ <span class="intro keep_all" data-v-09feb336>Blockchain security applications based on AI and ZK</span>
+ <span class="intro keep_all" data-v-09feb336>DeFi Liquidity Solutions</span>
+ <span class="intro keep_all" data-v-09feb336>Bitcoin-based application layer Layer2 solution</span>
+ <span class="intro keep_all" data-v-09feb336>Payment app for crypto assets</span>
+ <span class="intro keep_all" data-v-09feb336>DeFi lending protocol</span>
+ <span class="intro keep_all" data-v-09feb336>Asset Structured Protocol</span>
+ <span class="intro keep_all" data-v-09feb336>One-Stop DeFi Operation Hub for Sui Ecosystem</span>
+ <span class="intro keep_all" data-v-09feb336>Multichain Liquidity Optimisation Protocol</span>
+ <span class="intro keep_all" data-v-09feb336>Distributed GPU cluster for LLM inference</span>
+ <span class="intro keep_all" data-v-09feb336>High-performance Layer3 network</span>
+ <span class="intro keep_all" data-v-09feb336>Decentralised, multi-chain market maker</span>
+ <span class="intro keep_all" data-v-09feb336>DN404 Project</span>
+ <span class="intro keep_all" data-v-09feb336>Decentralized machine learning network</span>
+ <span class="intro keep_all" data-v-09feb336>AI rap battle in cyrpto</span>
+ <span class="intro keep_all" data-v-09feb336>Virtual girlfriend game powered by AI</span>
+ <span class="intro keep_all" data-v-09feb336>AMM protocol for fixed and variable rates</span>
+ <span class="intro keep_all" data-v-09feb336>Bitcoin Layer2 Platform</span>
+ <span class="intro keep_all" data-v-09feb336>Decentralized network to store data on Arweave</span>
+ <span class="intro keep_all" data-v-09feb336>Decentralized AI Agent Network</span>
+ <span class="intro keep_all" data-v-09feb336>Lending/borrowing protocol</span>
+ <span class="intro keep_all" data-v-09feb336>The first monad native AI</span>
+ <span class="intro keep_all" data-v-09feb336>App store dedicated to smart contract wallets</span>
+ <span class="intro keep_all" data-v-09feb336>Analytics tool for multisignature wallets</span>

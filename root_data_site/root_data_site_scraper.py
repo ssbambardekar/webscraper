@@ -7,7 +7,7 @@ try:
     # Define crawler process
     process = CrawlerProcess({
         'ITEM_PIPELINES': {'scrapy.pipelines.files.FilesPipeline': 1},
-        'FILES_STORE': '/path/to/your/folder'
+        'FILES_STORE': '/scrape_results'
     })
 
     # Crawl through the site
